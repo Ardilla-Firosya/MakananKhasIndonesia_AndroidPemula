@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Makanan Khas Indonesia</string>
+
+    <string name="food_name">Nama Makanan Khas Indonesia</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="material_value"> Bahan Bahan Makanan: </string>
+    <string name="profile_name">Ardilla Firosya</string>
+    <string name="email"> ardillafrsya34@gmail.com </string>
+    <string name="action_about">About\n</string>
+    <string name="pengolahan"> Cara Membuat: </string>
+    <string name="title">Judul Makanan</string>
+    <string name="Deksripsi">Deskripsi Makanan</string>
+    <string name="material">Bahan Makanan</string>
+
+</resources>
